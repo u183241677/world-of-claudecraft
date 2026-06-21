@@ -1902,6 +1902,14 @@ export const en_XA: EnTranslations = {
     "loot": {
       "takeAll": "[Ţáķé Áļļ]",
       "close": "[Çļóšé ļóóţ]"
+    },
+    "lootRoll": {
+      "title": "[Ŕóļļ ƒóŕ ļóóţ]",
+      "need": "[Ñééð]",
+      "greed": "[Ĝŕééð]",
+      "pass": "[Þášš]",
+      "choiceAria": "[{choice} ƒóŕ {item}]",
+      "everyonePassed": "[Éʋéŕýóñé þáššéð óñ {item}.]"
     }
   },
   "entities": {
